@@ -26,6 +26,4 @@ deploy:
   repo: Evan0307/siteExample
   target_branch: gh-pages
   local_dir: dist
-env:
-  global:
      
